@@ -18,12 +18,12 @@
 
 | Number | Name | Topic | Goal |
 | - | - | - | - |
-| **0** | **Ressources and Tools** | Basics | Learning the whats and hows of the ressources and tools available to you |
-| **1** | [**Editor UI**](./1-Editor%20UI/README.md) | Basics | Familiarize yourself with using the editor's UI |
+| **0** | **Ressources and Tools** | Basics | The **what, where and how to use** of the ressources and tools available to help you. |
+| **1** | [**Editor UI**](./1-Editor%20UI/README.md) | Basics | **Tame the intimidating editor** and turn it into your pet. |
 | **2** | **Physics** | GameObjects | Familiarize yourself with the built-in physics |
 | **3** | **Components** | GameObjects | Use components on your game objects |
 | **4** | **Managers** | GameObjects | Creating a Manager game object to manager your objects |
-| **5** | **Assets** | Assets | Import and use assets (Textures, Audio, 3d models with animation) |
+| **5** | [**Assets**](./5-Assets/README.md) | Assets | **Where to look** for Assets, **how to import** them and **how to use** them _(Covers the holy trinity of Textures, Audio, 3d models with animation)_. |
 | **6** | **Prefabs and Scenes** | Assets | Be more efficient by leveraging unity's tools |
 | **7** | **Ambiance** | Ambiance | Add lightning and such to your scenes to make it look appealing |
 | **8** | **In-Game UIs** | GameObjects | Learn In-Game UIs |
