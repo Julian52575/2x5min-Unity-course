@@ -7,7 +7,8 @@
 - How to disable collision between objects
 
 #### What you will avoid:
-<img src="./chairsFail.gif" width="240"> <img src="./ratFail.gif" width="203.5">
+<img src="./chairsFail.gif" width="240"> <img src="./ratFail.gif" width="200">    
+
 ###### _Example of fails you will never encounter thanks to this lesson_
 
 An image is worth a thousand words, so this page will contain a billion words within multiple gifs:
