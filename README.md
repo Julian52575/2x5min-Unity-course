@@ -20,7 +20,7 @@
 | - | - | - | - |
 | **0** | **Ressources and Tools** | Basics | The **what, where and how to use** of the ressources and tools available to help you. |
 | **1** | [**Editor UI**](./1-Editor%20UI/README.md) | Basics | **Tame the intimidating editor** and turn it into your pet. |
-| **2** | **Collision and Physics** | GameObjects | Familiarize yourself with the built-in collision and physics|
+| **2** | [**Collision and Physics**](./2-Collision%20and%20Physics/) | GameObjects | Familiarize yourself with the built-in collision and physics|
 | **3** | **Components** | GameObjects | Use components on your game objects |
 | **4** | **Managers** | GameObjects | Creating a Manager game object to manager your objects |
 | **5** | [**Assets**](./5-Assets/README.md) | Assets | **Where to look** for Assets, **how to import** them and **how to use** them _(Covers the holy trinity of Textures, Audio, 3d models with animation)_. |
