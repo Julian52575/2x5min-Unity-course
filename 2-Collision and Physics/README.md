@@ -9,14 +9,14 @@
 #### What you will avoid:
 <img src="./chairsFail.gif" width="240"> <img src="./ratFail.gif" width="200">    
 
-###### _Example of fails you will never encounter thanks to this lesson_
+<small> _Example of fails you will never encounter thanks to this lesson_ </small>
 
 An image is worth a thousand words, so this page will contain a billion words within multiple gifs:
 
 ### Colliders vs Rigidbodies
 
 ![comparison](./Comparison.gif)
-###### _Red objects have only a collider, blue only have a rigidbody and purple have both._
+<small> _Red objects have only a collider, blue only have a rigidbody and purple have both._ </small>
 
 > [!TIP]
 > All types of Collider allow collision detection, but do not influence the object's transform on their own.
@@ -28,7 +28,7 @@ An image is worth a thousand words, so this page will contain a billion words wi
 ### Collider
 
 ![all colliders](./allColliders.png)
-###### _All available colliders, trust your instinct on which one to use_
+<small> _All available colliders, trust your instinct on which one to use_ </small>
 
 > [!NOTE]
 > Parameters differs depending on the collider type.
@@ -48,7 +48,7 @@ An image is worth a thousand words, so this page will contain a billion words wi
 ### Rigidbody
 
 ![70 vs 1 mass](./Mass70vs!.gif)
-###### _The ball's mass is now 70 but the mass of the step is still 1._
+<small> _The ball's mass is now 70 but the mass of the step is still 1._ </small>
 
 ##### Tasks
 
@@ -96,7 +96,7 @@ You can use it to disable collision between objects.
 > _in British English_
 > _adjective_
 > _**relating to the motion of bodies without reference to mass or force**, [...]_
-###### https://www.collinsdictionary.com/dictionary/english/kinematic
+<small> https://www.collinsdictionary.com/dictionary/english/kinematic </small>
 
 Enabling kinematic disable gravity and other object's force.    
 The object will only update its tranform through its scripts, but still cause updates to the other objects' transforms.

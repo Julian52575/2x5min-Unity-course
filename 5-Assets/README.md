@@ -23,7 +23,7 @@ You will learn:
 _Preferred format: .png_
 
 ![Pizza](./Pizza.png)
-###### Can you believe [this](https://ambientcg.com/view?id=Pizza001) is a flat object ? I'll explain how the illusion of depth can be easily made ;)
+<small> _Can you believe [this](https://ambientcg.com/view?id=Pizza001) is a flat object ? I'll explain how the illusion of depth can be easily made_ ;) </small>
 
 ##### Websites
 
@@ -62,7 +62,7 @@ More are listed [here](https://gamedevnexus.com/resources/assets/).
 -------------
 #### Audio
 
-###### _Preferred format: .wav_
+<small> _Preferred format: .wav_ </small>
 
 ##### Websites
 
@@ -88,7 +88,7 @@ More are listed [here](https://gamedevnexus.com/resources/assets/).
 -------------
 #### 3d Models
 
-###### _Preferred format: .fbx_
+<small> _Preferred format: .fbx_ </small>
 
 ##### Websites
 

@@ -1,5 +1,7 @@
 # The 2x5 minutes concepts to learn Unity  
 
+$${\color{red}\text{The best time-to-skill ratio tutorial there is}}$$
+
 #### Read for 5 minutes, work for 5 minutes. 
 #### Complete all the concepts and you will be free to give life to your game.   
 

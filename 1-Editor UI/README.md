@@ -7,7 +7,7 @@ You will become familiar with the following concepts:
 - Reseting the windows layout
 
 ![a](./UI%20Overview.png)
-###### _My prefered editor layout_ 
+<small> _My prefered editor layout, which is the default_ </small>
 
 > [!TIP]
 > The editor seems intimidating at first,   
@@ -83,7 +83,7 @@ Now, rearrange the window layout
 [] Use the `Window` dropdown to restitute a layout that you like _(I recommand mine from the first screenshot if you are unsure)_
 
 ![Layout dropdown](./Layout.png)
-###### The layout option will save you if you feel lost ;)
+<small> _The layout option will save you if you feel lost_ ;) </small>
 
 -----
 You should now be confortable using Unity.  
