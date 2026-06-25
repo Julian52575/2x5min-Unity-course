@@ -13,7 +13,6 @@
 
 An image is worth a thousand words, so this page will contain a billion words within multiple gifs:
 
-
 ### Colliders vs Rigidbodies
 
 ![comparison](./Comparison.gif)
@@ -25,7 +24,7 @@ An image is worth a thousand words, so this page will contain a billion words wi
 > [!TIP]
 > Rigidbodies determines how physics _(gravity and other objects)_ interract with the object's transform. 
 
-
+------------
 ### Collider
 
 ![all colliders](./allColliders.png)
@@ -45,6 +44,7 @@ An image is worth a thousand words, so this page will contain a billion words wi
 > A cube could have a capsule collider if you need extra space for your hitbox.
 > ![transCube](./cubeWithCapsuleCollider.gif)
 
+-------------
 ### Rigidbody
 
 ![70 vs 1 mass](./Mass70vs!.gif)
@@ -67,6 +67,7 @@ An image is worth a thousand words, so this page will contain a billion words wi
 > - `Layer Overrides` to include/exclude some other objects (see below)
 > - `is Kinematic` (see below)
 
+-----------------
 ### Ignore layers
 
 Both Colliders and RigidBodies have a properties that allows you to configure interactions with different layers.
@@ -89,7 +90,7 @@ You can use it to disable collision between objects.
 > - a custom layer on your ball, and exclude it in one of the step's component
 > - 2 custom layers (best) and exclude them in all gameobject's components
 
-
+-------------------------------------------
 ### RigidBody Kinematic and script movement
 
 > _in British English_
