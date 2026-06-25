@@ -28,3 +28,7 @@
 | **7** | **Ambiance** | Ambiance | Add lightning and such to your scenes to make it look appealing |
 | **8** | **In-Game UIs** | GameObjects | Learn In-Game UIs |
 | **9** | **Nav Mesh** | GameObjects | Use Unity's built-in path finding feature |  
+
+> [!TIP]
+> This is Unity, expect crashes.
+> You can force close Unity from the task manager if it stops responding.
