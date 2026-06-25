@@ -74,12 +74,12 @@ You can use it to disable collision between objects.
 
 ##### Tasks
 
-[] `Add Layer...` and create a layer in one of the 26 spots available
+[] `Add Layer...` and create a layer in one of the 26 spots available    
 [] Assign the layer to one of your object   
 
 ![layer](./layers.png)
 
-[] Update the sphere's component to exclude the object's layer
+[] Update the sphere's component to exclude the object's layer    
 
 ![ignore reset](./IgnoreReset.gif)
 
@@ -102,9 +102,9 @@ The object will only update its tranform through its scripts, but still cause up
 
 ##### Tasks
 
-[] Enable an object's `is Kinematic` RigidBody parameter
-[] Create a new script
-[] Write the `void FixedUpdate()` function that calls `GetComponent<Rigidbody>().MovePosition();`
+[] Enable an object's `is Kinematic` RigidBody parameter    
+[] Create a new script    
+[] Write the `void FixedUpdate()` function that calls `GetComponent<Rigidbody>().MovePosition();`    
 
 ```c#
 void FixedUpdate()
